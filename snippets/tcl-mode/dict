@@ -1,0 +1,1 @@
+dict ${1:$$(yas/choose-value (reverse '("append" "create" "exists" "filter" "for" "get" "incr" "info" "keys" "lappend" "merge" "remove" "replace" "set" "size" "unset" "update" "values" "with")))} ${2:args...}

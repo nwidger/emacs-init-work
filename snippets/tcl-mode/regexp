@@ -1,0 +1,1 @@
+regexp ${1:[-about|-expanded|-indices|-line|-linestop|-lineanchor|-nocase|-all|-inline|-start idx|--]} ${2:exp} ${3:str} ${4:[matchVar]} ${5:[subMatchVar...]}

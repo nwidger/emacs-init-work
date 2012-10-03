@@ -1,0 +1,1 @@
+linsert ${1:list} ${2:index} ${3:element...}

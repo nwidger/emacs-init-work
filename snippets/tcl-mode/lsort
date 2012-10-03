@@ -1,0 +1,1 @@
+lsort ${1:[-ascii|-dictionary|-integer|-real|-command cmd|-increasing|-decreasing|-indices|-index idx|-nocase|-unique]} ${2:list}

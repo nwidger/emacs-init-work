@@ -1,0 +1,1 @@
+subst ${1:[-nobackslashes|-nocommands|-novariables]} ${2:string}

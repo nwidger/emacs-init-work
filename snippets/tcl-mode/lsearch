@@ -1,0 +1,1 @@
+lsearch ${1:[-exact|-glob|-regexp|-sorted]} ${2:[-all|-inline|-not|-start]} ${3:[-ascii|-dictionary|-integer|-nocase|-real]} ${4:[-decreasing|-increasing]} ${5:[-index|-subindices]} ${6:list} ${7:pattern}

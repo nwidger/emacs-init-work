@@ -1,0 +1,30 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("tcp.tcl<2>"
+ (filename . "   - no file -")
+ (defaults "tcp.tcl<2>")
+ (buffer-name . "tcp.tcl<2>")
+ (front-context-string . "sequence number ")
+ (rear-context-string . "               \"")
+ (front-context-region-string)
+ (rear-context-region-string)
+ (visits . 0)
+ (time 20576 37461 481865 450000)
+ (created 20576 37461 481865 450000)
+ (position . 48973)
+ (end-position . 48973))
+("ipv6-ndp.tcl"
+ (filename . "~/projects/cdrouter/pktsrc/generic/ipv6-ndp.tcl")
+ (buffer-name . "ipv6-ndp.tcl")
+ (front-context-string . "et mtu $icmpv6(o")
+ (rear-context-string . "               s")
+ (front-context-region-string)
+ (rear-context-region-string)
+ (visits . 0)
+ (time 20480 28018 659114 392000)
+ (created 20480 28018 659114 392000)
+ (position . 46717)
+ (end-position . 46717))
+)

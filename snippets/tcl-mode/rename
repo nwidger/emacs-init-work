@@ -1,0 +1,1 @@
+rename ${1:oldName} ${2:newName}

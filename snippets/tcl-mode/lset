@@ -1,0 +1,1 @@
+lset ${1:variable} ${2:[index...]} ${3:value}

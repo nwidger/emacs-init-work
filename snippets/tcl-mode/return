@@ -1,0 +1,1 @@
+return ${1:[-errorcode list|-errorinfo info|-level lvl|-options opts]} ${2:[-code [ok|error|return|break|continue]]} ${3:[result]}

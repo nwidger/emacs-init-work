@@ -1,0 +1,1 @@
+lreverse ${1:list}

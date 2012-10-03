@@ -1,0 +1,1 @@
+llength ${1:list}

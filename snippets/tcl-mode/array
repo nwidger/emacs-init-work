@@ -1,0 +1,1 @@
+array ${1:$$(yas/choose-value (reverse '("anymore" "donesearch" "exists" "get" "names" "nextelement" "set" "size" "startsearch" "statistics" "unset")))} ${2:args...}

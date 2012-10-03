@@ -1,0 +1,1 @@
+puts ${1:[-nonewline]} ${2:[channelId]} ${3:string}

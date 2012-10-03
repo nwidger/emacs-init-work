@@ -1,0 +1,1 @@
+lreplace ${1:list} ${2:first} ${3:last} ${4:[element...]}
