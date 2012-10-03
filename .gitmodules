@@ -1,0 +1,15 @@
+[submodule "anything-config"]
+    path = anything-config
+    url = git://repo.or.cz/anything-config.git
+
+[submodule "expand-region"]
+    path = expand-region
+    url = https://github.com/magnars/expand-region.el.git
+
+[submodule "wrap-region"]
+    path = wrap-region
+    url = https://github.com/rejeep/wrap-region.git
+
+[submodule "yasnippet"]
+    path = yasnippet
+    url = https://github.com/capitaomorte/yasnippet.git
